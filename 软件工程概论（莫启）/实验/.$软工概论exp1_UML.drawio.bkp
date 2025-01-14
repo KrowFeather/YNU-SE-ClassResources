@@ -1,0 +1,34 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+    <mxGraphModel dx="1290" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AxV4C9VpobN2QN3-yHXz-41" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AxV4C9VpobN2QN3-yHXz-42" value="教务处" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AxV4C9VpobN2QN3-yHXz-43" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="383" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AxV4C9VpobN2QN3-yHXz-44" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="30" width="400" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="AxV4C9VpobN2QN3-yHXz-45" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AxV4C9VpobN2QN3-yHXz-44">
+          <mxGeometry x="20" y="50" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AxV4C9VpobN2QN3-yHXz-46" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AxV4C9VpobN2QN3-yHXz-44">
+          <mxGeometry x="280" y="110" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AxV4C9VpobN2QN3-yHXz-47" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AxV4C9VpobN2QN3-yHXz-44">
+          <mxGeometry x="290" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AxV4C9VpobN2QN3-yHXz-48" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AxV4C9VpobN2QN3-yHXz-44">
+          <mxGeometry x="20" y="130" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
